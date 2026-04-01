@@ -27,12 +27,4 @@ Watch a video explanation of the app here:
 Google Drive link
 https://drive.google.com/file/d/1JWaNsLD6tZSJloiDlSdEYIonph8RBtwE/view?usp=sharing
 
-Make sure your Google Drive link is set so anyone with the link can view it.
 
-Installation
-Clone or download this repository.
-Open the project in Android Studio.
-Build and run on an emulator or Android device.
-License
-
-MIT License – free to use and modify.
